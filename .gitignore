@@ -8,3 +8,4 @@ site/
 -e auto_upload_init.sh
 -e auto_upload_init.sh
 -e auto_upload_init.sh
+-e auto_upload_init.sh
