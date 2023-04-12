@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://tedlau.github.io/NPUGCSTs/Python/</loc>
+         <lastmod>2023-04-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://tedlau.github.io/NPUGCSTs/README12/</loc>
          <lastmod>2023-04-12</lastmod>
          <changefreq>daily</changefreq>
@@ -16,7 +21,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://tedlau.github.io/NPUGCSTs/%E5%88%9B%E6%96%B0%E4%B8%8E%E5%88%9B%E4%B8%9A/</loc>
+         <lastmod>2023-04-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tedlau.github.io/NPUGCSTs/%E6%97%A0%E7%BA%BF%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/</loc>
+         <lastmod>2023-04-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://tedlau.github.io/NPUGCSTs/%E7%9F%A9%E9%98%B5%E8%AE%BA/</loc>
+         <lastmod>2023-04-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tedlau.github.io/NPUGCSTs/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%88%9B%E6%96%B0%E5%88%9B%E4%B8%9A%E6%B3%95%E5%BE%8B%E5%AE%9E%E5%8A%A1%E8%AE%AD%E7%BB%83/</loc>
+         <lastmod>2023-04-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tedlau.github.io/NPUGCSTs/%E9%AB%98%E7%BA%A7%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF/</loc>
          <lastmod>2023-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
